@@ -3,3 +3,8 @@ var email = 'rodolfoassislisboa@gmail.com';
 var profissão = 'Cirurgião Dentista';
 var idade = 44;
 var local = 'Hobbiton na Nova Zelândia';
+console.log(nome);
+console.log(email);
+console.log(profissão);
+console.log(idade);
+console.log(local);
